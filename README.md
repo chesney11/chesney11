@@ -1,5 +1,7 @@
-👋 Hi, I’m @chesney11
-- 💚 I’m interested in all things code, cybersecurity, data analytics, data science, rock climbing, volleyball, writing
+![Chesney MacDonald - Honors Stats & Data, Language and Speech Tech](image1.png)
+
+👋 Hi, I'm @chesney11
+- 💚 I'm interested in all things code, cybersecurity, data analytics, data science, rock climbing, volleyball, writing
 - 🧩 I have skills in SQL, R, Python, Java, JavaScript
 - 🪴 Thank you for reading :)
 
